@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'd48fd6d29fa21e559bb236cfa669e3d54c76c14e',
+        'name' => '__root__',
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'd48fd6d29fa21e559bb236cfa669e3d54c76c14e',
+            'dev_requirement' => false,
+        ),
+        'jwilsson/spotify-web-api-php' => array(
+            'pretty_version' => '5.0.3',
+            'version' => '5.0.3.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../jwilsson/spotify-web-api-php',
+            'aliases' => array(),
+            'reference' => '4ec7242fbaaf2df382d1545f169e8ef8ad7b2006',
+            'dev_requirement' => false,
+        ),
+        'phpmailer/phpmailer' => array(
+            'pretty_version' => 'v6.5.4',
+            'version' => '6.5.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../phpmailer/phpmailer',
+            'aliases' => array(),
+            'reference' => 'c0d9f7dd3c2aa247ca44791e9209233829d82285',
+            'dev_requirement' => false,
+        ),
+    ),
+);
