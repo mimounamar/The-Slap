@@ -11,5 +11,4 @@ Built using (HTML and CSS), PHP and JavaScript and including a SQL database, thi
 
 ## Demo 
 A demo version is put into disposition [here](https://mimoun.me/theslap). You can experience what it is like to be Tori Vega!
-# The-Slap
-# The-Slap
+
