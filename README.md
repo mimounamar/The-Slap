@@ -9,6 +9,25 @@ Built using (HTML and CSS), PHP and JavaScript and including a SQL database, thi
 - Great interaction with other users (following other people, liking their post, making them part of the most popular users). 
 - A chatting functionality that was put in standby for the moment. 
 
+<p align="center">
+  <img src="https://i.ibb.co/RbF8Dz0/Screenshot-2023-01-03-at-22-01-58-The-Slap.png" width="340">
+</p>
+
+> Homepage
+
+<p align="center">
+  <img src="https://i.ibb.co/jgTsv43/Screenshot-2023-01-03-at-22-02-29-The-Slap-Profil.png" width="340">
+</p>
+
+> Profile page
+
+<p align="center">
+  <img src="https://i.ibb.co/80DQvnx/Screenshot-2023-01-03-at-22-02-50-The-Slap-Feed.png" width="340">
+</p>
+
+> Feed
+
+
 ## Demo 
 A demo version is put into disposition [here](http://slap.mimoun.me/). You can experience what it is like to be Tori Vega!
 
