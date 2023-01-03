@@ -10,5 +10,5 @@ Built using (HTML and CSS), PHP and JavaScript and including a SQL database, thi
 - A chatting functionality that was put in standby for the moment. 
 
 ## Demo 
-A demo version is put into disposition [here](https://mimoun.me/theslap). You can experience what it is like to be Tori Vega!
+A demo version is put into disposition [here](http://slap.mimoun.me/). You can experience what it is like to be Tori Vega!
 
